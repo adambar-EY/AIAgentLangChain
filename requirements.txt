@@ -1,0 +1,6 @@
+
+azure-functions
+langchain
+langchain-openai
+openai
+langgraph
